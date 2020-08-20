@@ -1,4 +1,5 @@
-# Word Cloud from Tweets about #vacine
-This word cloud project was developed by Eduardo Passos using Python, Orange-canvas and other ETL and text mining tools. It aims to show the results for the hashtag VACINA (vacine in pt-br) on twitter to show the expectation about the coronavirus vacine and what are the trending topics with this word #vacina
+# Nuvem de palavras sobre a hashtag VACINA
+
+Este projeto de nuvem de palavras foi desenvolvido por Eduardo Passos, usando Python, Orange-canvas e outras ferramentas ETL e text mining. O intuito é coletar tweets com a hashtag VACINA no para identificar a expectativa das pessoas sobre a vacina contra coronavírus no Brasil, e quais são os trending topics dessa hashtag.
 
 <img src="export/word_cloud.png">

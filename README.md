@@ -5,4 +5,4 @@ Este projeto de nuvem de palavras foi desenvolvido por Eduardo Passos, usando Py
 Um agradecimento especial ao meu amigo Tiago Dias (diasctiago), pela criação da função de transformar o arquivo .csv em .txt. 
 Valeu, Tiago!
 
-<img src="export/word_cloud.png">
+<img src="export/word_cloud1.png">
